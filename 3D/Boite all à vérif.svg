@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1414.49 1953.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 11.34;
+        stroke-width: .28px;
+      }
+    </style>
+  </defs>
+  <g id="BOTTOM">
+    <g id="svgGroup">
+      <path id="bottom_outsideCutPath" data-name="bottom outsideCutPath" class="cls-1" d="m22.68,22.68v59.88h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v40.39h-8.5v40.39h8.5v59.88h59.88v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h59.88v-59.88h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5v-40.39h8.5v-40.39h-8.5V22.68h-59.88v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5H22.68Z" vector-effect="non-scaling-stroke"/>
+    </g>
+  </g>
+  <g id="BACK">
+    <g id="svgGroup-2" data-name="svgGroup">
+      <path id="back_outsideCutPath" data-name="back outsideCutPath" class="cls-1" d="m1403.15,1479.69v-22.32h-8.5v-40.39h8.5v-22.32h-68.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5H14.17v22.32h8.5v40.39h-8.5v22.32h1388.98Z" vector-effect="non-scaling-stroke"/>
+    </g>
+  </g>
+  <g id="RIGHT">
+    <g id="svgGroup-3" data-name="svgGroup">
+      <path id="right_outsideCutPath" data-name="right outsideCutPath" class="cls-1" d="m22.68,1479.69v22.32h-8.5v40.39h8.5v22.32h59.88v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h59.88v-22.32h8.5v-40.39h-8.5v-22.32H22.68Z" vector-effect="non-scaling-stroke"/>
+    </g>
+  </g>
+  <g id="LEFT">
+    <g id="svgGroup-4" data-name="svgGroup">
+      <path id="left_outsideCutPath" data-name="left outsideCutPath" class="cls-1" d="m1394.65,1658.27v-22.32h8.5v-40.39h-8.5v-22.32h-59.88v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5h-40.39v8.5h-40.39v-8.5H22.68v22.32h-8.5v40.39h8.5v22.32h1371.97Z" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g id="svgGroup-5" data-name="svgGroup">
+      <path id="front_outsideCutPath" data-name="front outsideCutPath" class="cls-1" d="m14.17,1658.27v22.32h8.5v40.39h-8.5v22.32h68.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h40.39v-8.5h40.39v8.5h68.39v-22.32h-8.5v-40.39h8.5v-22.32H14.17Z" vector-effect="non-scaling-stroke"/>
+    </g>
+  </g>
+</svg>

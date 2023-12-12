@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model CFS-0302TB
+#/17164379/1271013/2.50/6/3/Switch
+DEF CFS-0302TB S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "CFS-0302TB" 1050 200 50 H V L CNN
+F2 "CFS0302TB" 1050 100 50 H I L CNN
+F3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cfs.pdf" 1050 0 50 H I L CNN
+F4 "Dip Switch SPST 3 Position Surface Mount Slide (Standard) Actuator 100mA 6VDC" 1050 -100 50 H I L CNN "Description"
+F5 "4.6" 1050 -200 50 H I L CNN "Height"
+F6 "229-CFS-0302TB" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Nidec-Copal/CFS-0302TB?qs=XeJtXLiO41QuIAvn3TUJpA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "NIDEC COPAL" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "CFS-0302TB" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COM_1 1 0 0 200 R 50 50 0 0 P
+X COM_2 2 0 -100 200 R 50 50 0 0 P
+X COM_3 3 0 -200 200 R 50 50 0 0 P
+X NO_1 4 1200 -200 200 L 50 50 0 0 P
+X NO_2 5 1200 -100 200 L 50 50 0 0 P
+X NO_3 6 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
