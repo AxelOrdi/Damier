@@ -119,12 +119,9 @@ void Jeu_de_Dame:: Deroulement_Tour(){
     int Etat;
     std ::vector<int> Vecteur_Coordonnee_Initiale;
     std ::vector<int> Vecteur_Coordonnee_Finale;
-
-    // int Ligne_Position_Initiale;
-    // int Colonne_Position_initiale;
-    // int Ligne_Position_Finale;
-    // int Colonne_Position_Finale;
-
+    Pion_Blanc pb;
+    Pion_Noir pn;
+    
     while(Etat != 8){
        switch (Etat) {
         case 1: 
@@ -151,8 +148,7 @@ void Jeu_de_Dame:: Deroulement_Tour(){
             break;
        }
         tour = !tour;
-        Pion_Blanc pb;
-        Pion_Noir pn;
+        
         if(pb.NbPionBlanc==1 || pn.NbPionNoir == 1){
             Fin_de_jeu();
         }
