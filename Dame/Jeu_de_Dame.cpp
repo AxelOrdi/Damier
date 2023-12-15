@@ -144,9 +144,11 @@ void Jeu_de_Dame:: Deroulement_Tour(){
             break;
         
         case 7:
-            Etat = Verif_Deplacement_Manger_Pion(Vecteur_Coordonnee_Initiale[1],Vecteur_Coordonnee_Initiale[2]);
+            Etat = Verif_Deplacement_Manger_Pion(Vecteur_Coordonnee_Finale[1],Vecteur_Coordonnee_Finale[2]);
             break;
        }
+
+       // Etat 8 fin de tour
         tour = !tour;
         
         if(pb.NbPionBlanc==1 || pn.NbPionNoir == 1){
